@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ethanf23<br>- 👀 I’m interested in app development, web development, game development, data science, statistics, and machine learning.<br>- 🌱 I’m currently learning app development, web development data structures and algorithms, and linear algebra.<br>- 📫 How to reach me efu23@terpmail.umd.edu
+- 👋 Hi, I’m @ethanf23<br>- 👀 I’m interested in app development, web development, game development, data science, statistics, and machine learning.<br>- 🌱 I’m currently learning app development, web development, and AI. <br>- 📫 How to reach me efu23@terpmail.umd.edu
 
 
 # 💻 Tech Stack:
