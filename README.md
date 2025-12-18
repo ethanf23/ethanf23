@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ethanf23<br>- 👀 I’m interested in quant. <br>- 🌱 I’m currently learning algo trading. <br>- 📫 How to reach me efu23@umd.edu
+- 👋 Hi, I’m @ethanf23<br>- 👀 I’m interested in quant, sports betting, ai/ml, swe
+. <br>- 🌱 I’m currently learning algo trading and competetive programming. <br>- 📫 How to reach me efu23@umd.edu
 
 
 # 💻 Tech Stack:
