@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ethanf23<br>- 👀 I’m interested in building. <br>- 💼 Experience: Prev SDE Intern @ Amazon <br>- 📫 How to reach me efu23@umd.edu
+- 👋 Hi, I’m @ethanf23<br>- 👀 I’m interested in building. <br>- 💼 Experience: SWE Intern @ Google, Amazon, Metaiss, WK GOODS <br>- 📫 How to reach me efu23@umd.edu
 
 
 # 💻 Tech Stack:
